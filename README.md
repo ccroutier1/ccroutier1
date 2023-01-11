@@ -1,8 +1,7 @@
-<h1 align="left">Hey!, I'm Rover James</h1>
-<h3 align="left">A BS in Information Technology Student from the Philippines</h3>
+<h1 align="left">Hey!, I am Rover James</h1>
 
 - I’m currently learning **Flutter**
-- I’m interested in Software Development Specially Mobile Application Development.
+- I’m interested in Software Development specially in Mobile Application Development.
 
 <h3 align="left"><i>"My Goal is to learn different Programming Languages and Become a Software Engineer someday."</i></h3>
 <h4 align="left">My Social Accounts:</h4>
