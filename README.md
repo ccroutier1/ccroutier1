@@ -1,8 +1,7 @@
 
-![](images/2000_600px.gif)
+![](images/github banner100.gif)
 <h1 align="left">I am Rover James</h1>
 
-- Currently learning**Flutter**
 - I’m interested in Software Development specially in Mobile Application Development.
 
 <h3 align="left"><i>"My Goal is to learn different Programming Languages and Become a Software Engineer someday."</i></h3>
