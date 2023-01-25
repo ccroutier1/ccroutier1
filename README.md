@@ -1,8 +1,7 @@
 
 ![](images/2000_600px.gif)
-<h1 align="left">Hey!, I am Rover James</h1>
+<h1 align="left">I am Rover James, a flutter developer</h1>
 
-- I’m currently learning **Flutter**
 - I’m interested in Software Development specially in Mobile Application Development.
 
 <h3 align="left"><i>"My Goal is to learn different Programming Languages and Become a Software Engineer someday."</i></h3>
