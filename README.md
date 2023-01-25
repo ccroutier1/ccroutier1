@@ -1,4 +1,3 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fgoogleplaydev%2Faccelerating-app-development-with-flutter-db211bc4b120&psig=AOvVaw2AKuoC8hEu82_TAD4OHIBg&ust=1674709224628000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLjyiJb44fwCFQAAAAAdAAAAABAE)]
 <h1 align="left">Hey!, I am Rover James</h1>
 
 - I’m currently learning **Flutter**
