@@ -1,5 +1,4 @@
-
-h1 align="left">Hey!, I am Rover James</h1>
+<h1 align="left">Hey!, I am Rover James</h1>
 
 ![](images/2000_600px.gif)
 
