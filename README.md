@@ -2,7 +2,7 @@
 ![](images/bg100.png)
 <h2 align="left">I’m interested in Software Development specially in Mobile Application Development.</h2>
 
-<h4 align="left"><i>"My Goal is to learn different Programming Languages and Become a Software Engineer someday."</i></h4>
+
 <h4 align="left">My Social Accounts:</h4>
 <p align="left">
 <a href="https://twitter.com/ccroutier1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ccroutier1" height="30" width="40" /></a>
