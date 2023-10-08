@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  I'm a BSIT Student, I'm dreaming of becoming software developer with a passion for mobile application development in the future. I specialize in Android and Flutter Development, and have experience with Java, Kotlin, C++, and Dart.
+  I'm a BSIT Student, I'm dreaming of becoming software developer with a passion for mobile application development in the future. I specialize in Android and Flutter Development, and have experience with Java, Kotlin, C++, C#, and Dart.
 </p>
 
 <h3 align="center">Skills</h3>
