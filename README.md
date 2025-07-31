@@ -26,8 +26,8 @@
 
 <p align="center">
   <b>Bachelor of Science in Information Technology</b><br>
-  AMA Computer College<br>
-  2022 - Present
+  University of Nueva Caceres<br>
+  2025 - Present
 </p>
 
 <h3 align="center">Connect with me</h3>
