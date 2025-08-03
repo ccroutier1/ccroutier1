@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  I'm a BSIT Student, I'm dreaming of becoming software developer with a passion for mobile application development in the future. I specialize in Android and Flutter Development, and have experience with Java, Kotlin, C++, C#, and Dart.
+  I'm a BSIT Student, I'm dreaming of becoming software developer with a passion for mobile application development in the future. I specialize in Android and Flutter Development.
 </p>
 
 <h3 align="center">Skills</h3>
@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
 </p>
