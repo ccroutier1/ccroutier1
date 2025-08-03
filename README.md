@@ -2,34 +2,35 @@
 <h1 align="center">Hey there, I'm Rover James 👋</h1>
 
 <p align="center">
-  🚀 Aspiring Software Developer &nbsp;|&nbsp; 📱 Mobile App Enthusiast &nbsp;|&nbsp; 🎓 BSIT Student  
+  🚀 Aspiring Software Developer | 📱 Mobile App Enthusiast | 🎓 BSIT Student  
 </p>
 
 <p align="center">
-  <a href="mailto:dev.ccroutier1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-dev.ccroutier1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://twitter.com/ccroutier1">
     <img src="https://img.shields.io/badge/Twitter-@ccroutier1-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/rover-james-benda%C3%B1a-461942270/">
-    <img src="https://img.shields.io/badge/LinkedIn-Rover%20James%20Bendaña-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Rover%20James-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:dev.ccroutier1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dev.ccroutier1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
-I'm **Rover James Bendaña**, a dedicated Information Technology student at the **University of Nueva Caceres**, with a passion for **mobile app development** and a strong interest in becoming a full-time software developer.
+I'm a **BS in Information Technology** student at the **University of Nueva Caceres**, aiming to become a **software developer** with a focus on **mobile app development**. I'm passionate about building intuitive and scalable mobile experiences using modern tools and technologies.
 
-💡 I enjoy creating clean and intuitive user experiences.  
-📱 Currently building apps with **Flutter**, **Android**, **Kotlin**, and **Java**.  
-🧠 Always exploring ways to write efficient, scalable, and clean code.
+Currently exploring:
+- 📱 Android development using Kotlin and Java
+- ⚡ Cross-platform apps using Flutter & Dart
+- 🧠 Problem-solving and clean code practices
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
@@ -41,19 +42,42 @@ I'm **Rover James Bendaña**, a dedicated Information Technology student at the 
 
 ---
 
-## 🎓 Education
+### 🎓 Education
 
 **Bachelor of Science in Information Technology**  
 📍 *University of Nueva Caceres*  
-📅 *2025 – Present*
+📅 *2025 - Present*
 
 ---
 
-## 🤝 Let's Connect
+### 📈 GitHub Stats
 
 <p align="center">
-  I'm always open to collaboration, networking, and learning from others in the tech community. Let’s connect!
+  <img src="https://github-readme-stats.vercel.app/api?username=ccroutier1&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccroutier1&layout=compact&theme=radical" height="160"/>
 </p>
+
+---
+
+### 🤝 Let's Connect
+
+<p align="center">
+  I'm always open to collaborating on exciting projects, learning opportunities, or just chatting about tech and development!
+</p>
+
+<p align="center">
+  <a href="mailto:dev.ccroutier1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/ccroutier1">
+    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/rover-james-benda%C3%B1a-461942270/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
 
 <p align="center">
   <em>“Keep building. Keep learning. Stay curious.”</em>
