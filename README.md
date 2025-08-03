@@ -72,7 +72,3 @@ I'm **Rover James Bendaña**, a dedicated Information Technology student at the 
   <em>"Code with clarity. Build with purpose."</em>
 </p>
 
-
-<p align="center">
-  <em>“Keep building. Keep learning. Stay curious.”</em>
-</p>
